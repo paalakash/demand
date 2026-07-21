@@ -33,7 +33,7 @@ try {
 const PAYLOAD_ENCRYPTION_KEY = '98yNCjeAfWMwk0wI';
 
 // API endpoint returning encrypted payload
-app.get('/api/v1/data', (req, res) => {
+app.get('/data', (req, res) => {
     const platform = req.query.platform || 'win';
 
     let rawHtml;
